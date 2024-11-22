@@ -1,0 +1,17 @@
+"0","source(""week12-lab/process_COVID_data.R"")"
+"2","trying URL 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv'
+"
+"2","Content type 'text/plain; charset=utf-8'"
+"2"," length 2217680 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://raw.githubusercontent.com/COVID19Tracking/associated-data/master/us_census_data/us_census_2018_population_estimates_states.csv'
+"
+"2","Content type 'text/plain; charset=utf-8'"
+"2"," length 1993 bytes
+"
+"2","downloaded 1993 bytes
+
+"
