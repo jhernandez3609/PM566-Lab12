@@ -1,10 +1,9 @@
-name: "Jazmin Hernandez-website"
+name: "Jazmin Hernandez - Lab 12"
 navbar:
-  title: "My Website for Lab 12"
+  title: "PM 566 Lab 12"
   left:
     - text: "Home"
-      href: index.Rmd
+      href: index.html
 output:
   html_document:
-    theme: journal 
-
+    theme: journal
