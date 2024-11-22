@@ -14,7 +14,7 @@ This is my PM566 Lab 12 website.
 <br>
 
 ## First Step
-Sourcing necessary code process_COVID_data.R.
+Sourcing necessary code process_COVID_data.R. 
 ```{r setup, message=FALSE, echo=FALSE, warning=FALSE}
 
 library(data.table)
