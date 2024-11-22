@@ -1,0 +1,10 @@
+name: "Jazmin Hernandez-website"
+navbar:
+  title: "My Website for Lab 12"
+  left:
+    - text: "Home"
+      href: index.Rmd
+output:
+  html_document:
+    theme: journal 
+
