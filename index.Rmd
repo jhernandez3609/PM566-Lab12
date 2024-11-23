@@ -39,7 +39,7 @@ opts_chunk$set(
 ```
 
 ```{r load-data, echo=FALSE}
-source("week12-lab/process_COVID_data.R")
+source("process_COVID_data.R")
 ```
 ## Second Step
 Now I will be creating the **plotly** figures.
